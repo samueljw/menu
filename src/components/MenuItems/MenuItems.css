@@ -1,0 +1,8 @@
+.main-items {
+  list-style: none;
+}
+
+.menu-items-header {
+  display: flex;
+  justify-content: space-between;
+}
